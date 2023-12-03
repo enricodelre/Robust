@@ -1,0 +1,6 @@
+{
+    "dist_min_usable": 20,
+    "dist_max_usable": 70,
+    "phi_min_usable": -0.3490658503988659,
+    "phi_max_usable": 0.3490658503988659
+}
